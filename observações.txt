@@ -1,0 +1,2 @@
+Não fiz tudo, só fiz até onde consegui chegar
+Se o Front funcionar aí então o problema do create-react-app é aqui, se n eu errei em algum detalhe e não vi. 
